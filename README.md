@@ -39,7 +39,7 @@ Section 3: Build, Optimise, and Scale your Business Using ChatGPT
 [ ] 17. RapGPT: Writing original songs, chords and Lyrics with ChatGPT 9min
 
 Section  4: ChatGPT Deep Dives Updated Weekly
-[ ] 18. First Look at GPT-4 9min
+[x] 18. First Look at GPT-4 9min
 [ ] 19. Advanced Podcast Creation/Video Essays from Scratch with ChatGPT 10min
 [ ] 20. Advanced SEO for Digital Marketers and Agency Work 18min
 [ ] 21. Translation part 2: English Business Communincation for Non-Native Speakers 7min
@@ -58,7 +58,7 @@ Section  6: The Full Power of ChatGPT Odds and Ends + Protips
 [ ] 30. ChatGPT Plus: First Look 7min
 [ ] 31. Nutritionist GPT: Make Meal Plans and Measure Calories with ChatGPT 5min
 [ ] 32. Common Error Messages and Fixes with ChatGPT 4min
-[ ] 33. GPT on the Go: ChatGPT Mobile App vs. Web Browser 2min
+[x] 33. GPT on the Go: ChatGPT Mobile App vs. Web Browser 2min
 [ ] 34. A Texas Sized Goodbye! Thank you for Joining Us :) 2min
 
 Section  7: Beyond GPT: The Best Tools and Plugins using AI
