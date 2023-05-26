@@ -22,7 +22,7 @@ Section 1: Picking Up ChatGPT
 [x] 4. Prompt Engineering: Using the RELIC Framework for Amazing Output
 
 Section 2: The Course Condensed! Live Workshop by The GPT Agency 48m
-[ ] 5. Live Workshop including Q&A with Masterclass Students
+[x] 5. Live Workshop including Q&A with Masterclass Students
 
 Section 3: Build, Optimise, and Scale your Business Using ChatGPT
 [ ]  6. Language Translation/My Favorite ChatGPT Based Business for New Entrepreneurs! 8min
