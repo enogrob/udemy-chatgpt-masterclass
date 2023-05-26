@@ -25,7 +25,7 @@ Section 2: The Course Condensed! Live Workshop by The GPT Agency 48m
 [x] 5. Live Workshop including Q&A with Masterclass Students
 
 Section 3: Build, Optimise, and Scale your Business Using ChatGPT
-[ ]  6. Language Translation/My Favorite ChatGPT Based Business for New Entrepreneurs! 8min
+[x]  6. Language Translation/My Favorite ChatGPT Based Business for New Entrepreneurs! 8min
 [ ]  7. SEO Basics for ChatGPT 7min
 [ ]  8. How to Build an Online Course using ChatGPT 13min
 [ ]  9. A Podcast in Minutes: ChatGPT for Long-Form Script Writing 8min
