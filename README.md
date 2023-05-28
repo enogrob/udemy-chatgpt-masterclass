@@ -28,7 +28,7 @@ Section 3: Build, Optimise, and Scale your Business Using ChatGPT
 [x]  6. Language Translation/My Favorite ChatGPT Based Business for New Entrepreneurs! 8min
 [x]  7. SEO Basics for ChatGPT 7min
 [x]  8. How to Build an Online Course using ChatGPT 13min
-[ ]  9. A Podcast in Minutes: ChatGPT for Long-Form Script Writing 8min
+[x]  9. A Podcast in Minutes: ChatGPT for Long-Form Script Writing 8min
 [ ] 10. Amazon SEO with ChatGPT 10min
 [ ] 11. Selling Competitive Products with ChatGPT 11min
 [ ] 12. 3 Different Types of Emails you Can Build with ChatGPT 6min
