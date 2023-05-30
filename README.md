@@ -31,7 +31,7 @@ Section 3: Build, Optimise, and Scale your Business Using ChatGPT
 [x]  9. A Podcast in Minutes: ChatGPT for Long-Form Script Writing 8min
 [x] 10. Amazon SEO with ChatGPT 10min
 [x] 11. Selling Competitive Products with ChatGPT 11min
-[ ] 12. 3 Different Types of Emails you Can Build with ChatGPT 6min
+[x] 12. 3 Different Types of Emails you Can Build with ChatGPT 6min
 [ ] 13. Creating Social Media Posts with ChatGPT 9min
 [ ] 14. Using Copy.Ai for Instagram Captions 3min
 [ ] 15. Write with Voice: ChatGPT for Youtube Scripts 11min
